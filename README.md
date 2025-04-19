@@ -23,8 +23,8 @@ The platform also provides valuable insights, government scheme updates, SMS not
 ## 🧮 Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js / Python Flask (depending on final implementation)
-- **Database:** MongoDB / Firebase / MySQL (based on deployment)
+- **Backend:** Python Flask 
+- **Database:** MySQL 
 - **Optimization:** PuLP (Python Linear Programming Library) or similar
 - **Hosting:** Render.com (Database & Web App)
 
@@ -41,6 +41,11 @@ The platform also provides valuable insights, government scheme updates, SMS not
 ---
 
 ## 📸 Screenshots
+![file_2024-12-07_18 50 29](https://github.com/user-attachments/assets/3b04dba9-5b92-4bb9-ab81-ef857f0ed428)
+![file_2024-12-07_18 52 44](https://github.com/user-attachments/assets/52bad324-c671-4da7-b1e3-f448f70d622c)
+![file_2024-12-07_18 58 31](https://github.com/user-attachments/assets/0f012b8b-81e5-43dd-99a1-96d30b34fdc4)
+![file_2024-12-07_19 00 31](https://github.com/user-attachments/assets/b25ffa03-4687-4d19-b2a7-eea5e9cdfe8a)
+![file_2024-12-07_19 01 31](https://github.com/user-attachments/assets/9b824249-3361-4935-baab-43d3a8d18fcf)
 
 
 
@@ -130,18 +135,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you'd like it personalized with your name, team members, college, or specific deployment link!
-
-
-
-
-
-
-
-
-
-Thanks! Based on the updated project structure you've shared, here's a revised version of your `README.md` file:
-
----
-
-```markdown

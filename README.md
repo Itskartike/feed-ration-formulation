@@ -42,32 +42,33 @@ The platform also provides valuable insights, government scheme updates, SMS not
 
 ## 📸 Screenshots
 
-*(Add images of your UI if available)*
 
----
 
 ## 📁 Project Structure
 
-```
 feed-ration-formulation/
 │
-├── index.html             # Landing page
-├── calculate.html         # Nutrient calculator & feed input
-├── result.html            # Optimized feed plan result
+├── app.py                        # Main backend (Flask) application
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation
 │
-├── css/
-│   └── style.css          # Styling
+├── public/
+│   └── index.html                # Entry point / landing page (static)
 │
-├── js/
-│   └── script.js          # Logic and interactivity
+├── static/
+│   ├── css/
+│   │   └── style.css             # Custom styles
+│   └── images/
+│       ├── cow2.jpeg
+│       ├── cow3.jpg
+│       ├── img.jpg
+│       └── nutrition.jpg        # Used across templates
 │
-├── python/
-│   └── optimizer.py       # LP Solver using PuLP (optional)
-│
-├── data/
-│   └── feed_db.json       # Sample feed ingredients & nutrient values
-│
-└── README.md              # Project info
+├── templates/
+│   ├── home.html                 # Main dashboard/homepage
+│   ├── animal_requirements.html # Form for animal details
+│   ├── feed_options.html        # Feed ingredient selection
+│   ├── cost_estimation.html     # Result page with optimized cost output
 ```
 
 ---
@@ -130,3 +131,17 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Let me know if you'd like it personalized with your name, team members, college, or specific deployment link!
+
+
+
+
+
+
+
+
+
+Thanks! Based on the updated project structure you've shared, here's a revised version of your `README.md` file:
+
+---
+
+```markdown
